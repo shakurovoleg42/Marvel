@@ -1,4 +1,5 @@
 import { useState } from "react";
+// gg
 import AppHeader from "../appHeader/AppHeader";
 import RandomChar from "../randomChar/RandomChar";
 import CharList from "../charList/CharList";
