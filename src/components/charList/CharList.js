@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react';
+import {useState, useEffect, useRef} from 'react';
 import PropTypes from 'prop-types';
 
 import Spinner from '../spinner/spinner';
@@ -103,7 +103,6 @@ const CharList = (props) => {
             </button>
         </div>
     )
-    
 }
 
 CharList.propTypes = {
